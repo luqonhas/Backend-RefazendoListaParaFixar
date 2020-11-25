@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-RefazendoListaParaFixar\Exercicio1\bin\Debug\netcoreapp3.1\Exercicio1.exe
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-RefazendoListaParaFixar\Exercicio1\bin\Debug\netcoreapp3.1\Exercicio1.deps.json
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-RefazendoListaParaFixar\Exercicio1\bin\Debug\netcoreapp3.1\Exercicio1.runtimeconfig.json
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-RefazendoListaParaFixar\Exercicio1\bin\Debug\netcoreapp3.1\Exercicio1.runtimeconfig.dev.json
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-RefazendoListaParaFixar\Exercicio1\bin\Debug\netcoreapp3.1\Exercicio1.dll
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-RefazendoListaParaFixar\Exercicio1\bin\Debug\netcoreapp3.1\Exercicio1.pdb
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-RefazendoListaParaFixar\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-RefazendoListaParaFixar\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-RefazendoListaParaFixar\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.AssemblyInfo.cs
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-RefazendoListaParaFixar\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-RefazendoListaParaFixar\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.dll
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-RefazendoListaParaFixar\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.pdb
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-RefazendoListaParaFixar\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.genruntimeconfig.cache
